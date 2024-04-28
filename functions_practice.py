@@ -18,7 +18,7 @@ def hello():
       else:
         print("My lunchbox is empty!")
 
-    food_list = ["sandwich, apple, cookies, milk"]
+    food_list = ["sandwich", "apple", "cookies", "milk"]
     eat_lunch(food_list)
     eat_lunch([])
       
